@@ -1,7 +1,7 @@
 # Profitable_Japanese_Restaurant
 The goal is to acquire data through webscraping to find out the best way to open a Japanese restaurant on HK Island, by choosing the best price range, cuisine and location.
 ![image](https://user-images.githubusercontent.com/80243823/117673469-67a9c480-b1dd-11eb-8c7d-b8f7ee6ba48e.png)
-
+ 
 ## **Data Collection**
 We use Openrice as our source of data and acquire its data through webscraping
 ![image](https://user-images.githubusercontent.com/80243823/117673764-a50e5200-b1dd-11eb-9f5b-f631a8b222d2.png)
